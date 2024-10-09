@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Jni_Project</string>
+    <string name="convert_to_grayscale">Convert To Grayscale</string>
+</resources>
